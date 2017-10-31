@@ -1,0 +1,7 @@
+  //This Program is the proprety of :
+
+Author: BELMAMOUN ADNANE.
+          
+ Ce programme effectue une simulation du bloc BGC élaboré en tant que projet examen 
+ en matiére Systémes embarqués pour l'année univérsitaire 2011-2012.
+

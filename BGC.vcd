@@ -1,0 +1,358 @@
+$date
+     Oct 30, 2017       19:29:56
+$end
+
+$version
+              SystemC 2.2.0 --- Dec  9 2011 20:31:09
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaa  clk       $end
+$var wire    8  aab  SBECF_selec1 [7:0]  $end
+$var wire    8  aac  SBECF_selec2 [7:0]  $end
+$var wire    1  aad  resultat1       $end
+$var wire    1  aae  resultat2       $end
+$var wire    1  aaf  resultat3       $end
+$var wire    8  aag  sigout1mux [7:0]  $end
+$var wire    8  aah  sigout2mux [7:0]  $end
+$var wire    8  aai  sigout1and8 [7:0]  $end
+$var wire    8  aaj  sigout2and8 [7:0]  $end
+$var wire    8  aak  sigoutor8_1 [7:0]  $end
+$var wire    4  aal  sigoutcodeur1_4 [3:0]  $end
+$var wire    4  aam  sigoutMux1_4res3 [3:0]  $end
+$var wire    4  aan  sigoutand4bits [3:0]  $end
+$var wire    4  aao  sigoutor4bits_decision [3:0]  $end
+$var wire    1  aap  sigout_non4bits_finale       $end
+$var wire    1  aaq  sigout_non4bits_finale       $end
+$var wire    1  aar  sigout_non4bits_finale       $end
+$var wire    1  aas  sigout_non4bits_finale       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaa
+b0 aab
+b0 aac
+1aad
+0aae
+0aaf
+b11111111 aag
+b0 aah
+b1001 aai
+b0 aaj
+b1001 aak
+b1 aal
+b0 aam
+b0 aan
+b1 aao
+0aap
+0aaq
+1aar
+0aas
+$end
+
+#6
+0aaa
+
+#12
+1aaa
+
+#18
+0aaa
+
+#24
+1aaa
+
+#30
+0aaa
+
+#36
+1aaa
+
+#42
+0aaa
+
+#48
+1aaa
+
+#54
+0aaa
+
+#60
+1aaa
+
+#66
+0aaa
+
+#72
+1aaa
+
+#78
+0aaa
+
+#84
+1aaa
+
+#90
+0aaa
+
+#96
+1aaa
+
+#102
+0aaa
+
+#108
+1aaa
+
+#114
+0aaa
+
+#120
+1aaa
+
+#126
+0aaa
+
+#132
+1aaa
+
+#138
+0aaa
+
+#144
+1aaa
+
+#150
+0aaa
+
+#156
+1aaa
+
+#162
+0aaa
+
+#168
+1aaa
+
+#174
+0aaa
+
+#180
+1aaa
+
+#186
+0aaa
+
+#192
+1aaa
+
+#198
+0aaa
+
+#204
+1aaa
+
+#210
+0aaa
+
+#216
+1aaa
+
+#222
+0aaa
+
+#228
+1aaa
+
+#234
+0aaa
+
+#240
+1aaa
+
+#246
+0aaa
+
+#252
+1aaa
+
+#258
+0aaa
+
+#264
+1aaa
+
+#270
+0aaa
+
+#276
+1aaa
+
+#282
+0aaa
+
+#288
+1aaa
+
+#294
+0aaa
+
+#300
+1aaa
+
+#306
+0aaa
+
+#312
+1aaa
+
+#318
+0aaa
+
+#324
+1aaa
+
+#330
+0aaa
+
+#336
+1aaa
+
+#342
+0aaa
+
+#348
+1aaa
+
+#354
+0aaa
+
+#360
+1aaa
+
+#366
+0aaa
+
+#372
+1aaa
+
+#378
+0aaa
+
+#384
+1aaa
+
+#390
+0aaa
+
+#396
+1aaa
+
+#402
+0aaa
+
+#408
+1aaa
+
+#414
+0aaa
+
+#420
+1aaa
+
+#426
+0aaa
+
+#432
+1aaa
+
+#438
+0aaa
+
+#444
+1aaa
+
+#450
+0aaa
+
+#456
+1aaa
+
+#462
+0aaa
+
+#468
+1aaa
+
+#474
+0aaa
+
+#480
+1aaa
+
+#486
+0aaa
+
+#492
+1aaa
+
+#498
+0aaa
+
+#504
+1aaa
+
+#510
+0aaa
+
+#516
+1aaa
+
+#522
+0aaa
+
+#528
+1aaa
+
+#534
+0aaa
+
+#540
+1aaa
+
+#546
+0aaa
+
+#552
+1aaa
+
+#558
+0aaa
+
+#564
+1aaa
+
+#570
+0aaa
+
+#576
+1aaa
+
+#582
+0aaa
+
+#588
+1aaa
+
+#594
+0aaa
+
